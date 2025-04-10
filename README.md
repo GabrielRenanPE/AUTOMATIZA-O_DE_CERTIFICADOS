@@ -1,7 +1,3 @@
-Segue abaixo uma sugestão de README melhorado para o seu projeto:
-
----
-
 # Automação de Geração e Envio de Certificados
 
 Este projeto em Python automatiza a criação e envio de certificados personalizados para eventos, cursos e treinamentos, eliminando tarefas manuais e agilizando o processo.
